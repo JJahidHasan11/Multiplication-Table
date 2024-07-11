@@ -2,9 +2,6 @@
 
 This JavaScript program generates a multiplication table from 1 to 10.
 
-## you can also see now 
-
-link = https://amar-webdev.github.io/Multiplication-Chart/
 
 ## How to Use
 
